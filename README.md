@@ -111,3 +111,22 @@ alt="submit pull request" />
 Soon we'll be merging all your changes into the main branch of this project. And your name will be added to the list of contributors.
 
 ## Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/thangbuiq>
+            <img src=https://avatars.githubusercontent.com/u/89576896?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Thang Bui Quang/>
+            <br />
+            <sub style="font-size:14px"><b>Thang Bui Quang</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/lelouvincx>
+            <img src=https://avatars.githubusercontent.com/u/40534905?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=lelouvincx/>
+            <br />
+            <sub style="font-size:14px"><b>lelouvincx</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
